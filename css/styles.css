@@ -6,15 +6,16 @@ p{
   font-style: italic;
 }
 
-.important{
-  color:red
-  font-size: 50px;
+.flashy{
+  color: red;
+  font-style: italic;
 }
 
-.author{
-  width: 50%;
+.best{
+  font-size: 100px;
+  color: forestgreen;
   font-weight: bold;
-  text-align: right; 
+  text-align: center;
 }
 
 .badass{
